@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(3, 64, 95);
+    height: 100px;
+    padding-top: 20px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+   
+    
+    margin-left: 700px;
+    
+}
+li{
+    color: white;
+    font-size: x-large;
+    margin-left: 20px;
+    
+}
